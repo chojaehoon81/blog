@@ -9,3 +9,12 @@
     border-bottom:5px solid black;
     padding-bottom:40px;
 }
+
+.title-box-1 {
+    margin-top: 20px;
+}
+
+.box {
+    font-weight: bold;
+    font-size: 100px;
+}
